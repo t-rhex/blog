@@ -26,6 +26,20 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://t-rhex.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: itbud
 github_username:  t-rhex
+linkedin_username: andrewadhikari
+instagram_username: it_bud
+
+# Fields minima user but are not defaulted with the jekyll new command 
+# Author is the default for posts, the Atom feed and is used in the footer 
+author: Andrew Adhikari 
+
+# New fields not defaulted by jekyll-new with the minima theme 
+# Add a copy right. A copy right symbol and year will be added automatically 
+
+copyright: "Andrew Adhikari"
+
+
+
 
 # Build settings
 #Removed minima theme as it is now a regular theme

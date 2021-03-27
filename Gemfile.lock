@@ -260,6 +260,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  eventmachine (~> 1.2.7)
   github-pages
   jekyll-feed (~> 0.12)
   tzinfo (~> 1.2)
